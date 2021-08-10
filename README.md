@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @viswdeep
 - 👀 I’m interested in Web Devlopment 
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me vishwadeep0112@gmail.com
 
 <!---
